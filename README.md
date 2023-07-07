@@ -28,5 +28,5 @@ sudo docker run -p 8080:80 --name my-flask-app-container paragpatil01/my-flask-a
 To start your app on your machine, simply run the following command:
 ./run_my_flask_app.sh
 
-Now, your app should be running on your machine. Please note any spelling or grammar mistakes I may have made in this response.
+Now, your app should be running on your machine.
 
